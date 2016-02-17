@@ -7,7 +7,7 @@
       }
    ],
    "defaultMemory":512,
-   "description":"Platform that allows users to build, integrate and deploy web and mobile applications.",
+   "description":"Model driven rapid app platform that allow users to build, integrate and deploy web and mobile applications.",
    "type":"web",
    "version":"1.0",
    "smallIcon":"mx-logo-ibm-24x24.png",
