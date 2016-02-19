@@ -2,8 +2,8 @@
    "name":"Mendix Rapid Apps",
    "services":[
       {
-         "name":"elephantsql",
-         "plan":"turtle"
+         "name":"cleardb",
+         "plan":"spark"
       }
    ],
    "defaultMemory":512,
