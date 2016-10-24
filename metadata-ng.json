@@ -23,7 +23,7 @@
       "url":"https://github.com/starterapps-metadata/mendixStarter.git",
       "appPath":"app"
    },
-   "docURL":"https://world.mendix.com/display/howto6/Deploying+a+Mendix+App+to+IBM+Bluemix",
+   "docURL":"https://world.mendix.com/display/public/howto6/Deploying+a+Mendix+App+to+IBM+Bluemix",
    "categories":[
       "boilerplate"
    ],
