@@ -1,5 +1,5 @@
 {
-   "name":"Mendix Rapid Apps",
+   "name":"Mendix",
    "services":[
       {
          "name":"cleardb",
@@ -7,7 +7,7 @@
       }
    ],
    "defaultMemory":512,
-   "description":"Model driven rapid app platform that allow users to build, integrate and deploy web and mobile applications.",
+   "description":"Model driven rapid app platform that allow users to build, integrate and deploy web and mobile applications. <a href = 'https://docs.mendix.com/howto6/Deploy+a+Mendix+App+to+IBM+Bluemix'>Learn more</a>",
    "type":"web",
    "version":"1.0",
    "smallIcon":"mx-logo-ibm-24x24.png",
